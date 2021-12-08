@@ -1,8 +1,9 @@
 ### Hi there 👋, My name is Shahrukh Sadikin
-#### I am Front-End Web Developer
+#### <h3 align="center">I am a passionate frontend developer from Bangladesh</h3>
 
 
-About me
+About me:
+
 Hi, I’m Shahrukh sadikin. I’m a Junior Web Developer. living in jessore, Bangladesh. I am a fan of programming. You can Connect me to your Business.
 
 
@@ -12,8 +13,15 @@ React Route, Firebase Auth, SPA.
 
 •Tools: Git, Github, Chrome Dev Tool, VS Code, Figma, Firebase, Netlify, Heroku, etc.
 
-Skills:  REACT / JS / HTML / CSS/Bootstrap/ Tailwind CSS/ Materialize CSS
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+Skills:
+*REACT 
+*JS 
+*HTML 
+*CSS
+*Bootstrap
+*Tailwind CSS
+*Materialize CSS
+
 
 <p align="left">
 </p>
