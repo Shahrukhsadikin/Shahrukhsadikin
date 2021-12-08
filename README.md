@@ -29,7 +29,7 @@ Skills:  REACT / JS / HTML / CSS/Bootstrap/ Tailwind CSS/ Materialize CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahrukhsadikin&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shahrukhsadikin)  
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Shahrukhsadikin)  
 
