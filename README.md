@@ -14,13 +14,13 @@ React Route, Firebase Auth, SPA.
 •Tools: Git, Github, Chrome Dev Tool, VS Code, Figma, Firebase, Netlify, Heroku, etc.
 
 Skills:
-*REACT 
-*JS 
-*HTML 
-*CSS
-*Bootstrap
-*Tailwind CSS
-*Materialize CSS
+- REACT 
+- JS 
+- HTML 
+- CSS
+- Bootstrap
+- Tailwind CSS
+- Materialize CSS
 
 
 <p align="left">
